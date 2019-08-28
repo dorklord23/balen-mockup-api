@@ -1,0 +1,34 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "name": "Promo 1",
+            "url": "https://via.placeholder.com/910x300.png/4a4a4a",
+            "status": "active",
+            "order": 1
+        },
+        {
+            "id": 2,
+            "name": "Promo 2",
+            "url": "https://via.placeholder.com/910x300.png/a4a4a4",
+            "status": "active",
+            "order": 2
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "name": "Introduksi Balen",
+            "url": "https://www.youtube.com/embed/O-ZblMfZpuw",
+            "status": "active",
+            "page": "/"
+        },
+        {
+            "id": 2,
+            "name": "Introduksi Bcak",
+            "url": "https://www.youtube.com/embed/NznDn6tU2Xk",
+            "status": "active",
+            "page": "/bcak"
+        }
+    ]
+}
