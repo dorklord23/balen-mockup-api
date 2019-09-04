@@ -3,14 +3,14 @@
         {
             "id": 1,
             "name": "Promo 1",
-            "url": "https://via.placeholder.com/910x300.png/4a4a4a",
+            "url": "https://slack-files.com/T0V6FGF3L-FMTJY1C8H-60bc21e886",
             "status": "active",
             "order": 1
         },
         {
             "id": 2,
             "name": "Promo 2",
-            "url": "https://via.placeholder.com/910x300.png/a4a4a4",
+            "url": "https://slack-files.com/T0V6FGF3L-FN1RDLQ9M-af6a61569c",
             "status": "active",
             "order": 2
         }
