@@ -3,14 +3,14 @@
         {
             "id": 1,
             "name": "Promo 1",
-            "url": "https://slack-files.com/T0V6FGF3L-FMTJY1C8H-60bc21e886",
+            "url": "https://files.slack.com/files-pri/T0V6FGF3L-FMTJY1C8H/banner-landing-001.png",
             "status": "active",
             "order": 1
         },
         {
             "id": 2,
             "name": "Promo 2",
-            "url": "https://slack-files.com/T0V6FGF3L-FN1RDLQ9M-af6a61569c",
+            "url": "https://files.slack.com/files-pri/T0V6FGF3L-FN1RDLQ9M/banner-landing-002.png?pub_secret=af6a61569c",
             "status": "active",
             "order": 2
         }
